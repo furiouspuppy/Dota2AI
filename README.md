@@ -6,8 +6,8 @@ Welcome to this repo!
 
 This is an implementation of the Dota 2 Bots (a.k.a. the computer controlled players) API. This means that the code in this repository is mostly LUA scripts rewriting the default bots behaviors with a custom one. Designed to offer an intense experience, even to high skilled  players. 
 
-More about Dota 2 [HERE!!](http://dota2.gamepedia.com/Dota_2_Wiki)
-More about Dota 2 AI Scripting [HERE!!](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting)
+#### More about Dota 2 [HERE!!](http://dota2.gamepedia.com/Dota_2_Wiki)
+#### More about Dota 2 AI Scripting [HERE!!](https://developer.valvesoftware.com/wiki/Dota_Bot_Scripting)
 
 ### Current MILESTONES ###
 
